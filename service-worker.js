@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/royaliosvideoplayer/precache-manifest.74de870950b687f0daeeddda6a9c3755.js"
+  "/royaliosvideoplayer/precache-manifest.c396a5c5badf2b3d87a27f71e3a746ce.js"
 );
 
 self.addEventListener('message', (event) => {

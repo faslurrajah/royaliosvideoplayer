@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b73c38d4c055d68b09225d4308f4dcfe",
+    "revision": "5430338933d0016cc3f8246efcf81d4b",
     "url": "/royaliosvideoplayer/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/royaliosvideoplayer/static/css/2.537602a3.chunk.css"
   },
   {
-    "revision": "049a29ba2790172a1a1e",
+    "revision": "793e2c053e38237436a0",
     "url": "/royaliosvideoplayer/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/royaliosvideoplayer/static/js/2.37946a76.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "049a29ba2790172a1a1e",
-    "url": "/royaliosvideoplayer/static/js/main.b7b3b4af.chunk.js"
+    "revision": "793e2c053e38237436a0",
+    "url": "/royaliosvideoplayer/static/js/main.96a0fb99.chunk.js"
   },
   {
     "revision": "536d785ebc653c825421",

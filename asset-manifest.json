@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/royaliosvideoplayer/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/royaliosvideoplayer/static/js/main.b7b3b4af.chunk.js",
-    "main.js.map": "/royaliosvideoplayer/static/js/main.b7b3b4af.chunk.js.map",
+    "main.js": "/royaliosvideoplayer/static/js/main.96a0fb99.chunk.js",
+    "main.js.map": "/royaliosvideoplayer/static/js/main.96a0fb99.chunk.js.map",
     "runtime-main.js": "/royaliosvideoplayer/static/js/runtime-main.ed16f23f.js",
     "runtime-main.js.map": "/royaliosvideoplayer/static/js/runtime-main.ed16f23f.js.map",
     "static/css/2.537602a3.chunk.css": "/royaliosvideoplayer/static/css/2.537602a3.chunk.css",
     "static/js/2.37946a76.chunk.js": "/royaliosvideoplayer/static/js/2.37946a76.chunk.js",
     "static/js/2.37946a76.chunk.js.map": "/royaliosvideoplayer/static/js/2.37946a76.chunk.js.map",
     "index.html": "/royaliosvideoplayer/index.html",
-    "precache-manifest.74de870950b687f0daeeddda6a9c3755.js": "/royaliosvideoplayer/precache-manifest.74de870950b687f0daeeddda6a9c3755.js",
+    "precache-manifest.c396a5c5badf2b3d87a27f71e3a746ce.js": "/royaliosvideoplayer/precache-manifest.c396a5c5badf2b3d87a27f71e3a746ce.js",
     "service-worker.js": "/royaliosvideoplayer/service-worker.js",
     "static/css/2.537602a3.chunk.css.map": "/royaliosvideoplayer/static/css/2.537602a3.chunk.css.map",
     "static/css/main.5ecd60fb.chunk.css.map": "/royaliosvideoplayer/static/css/main.5ecd60fb.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.537602a3.chunk.css",
     "static/js/2.37946a76.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.b7b3b4af.chunk.js"
+    "static/js/main.96a0fb99.chunk.js"
   ]
 }
